@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="DP">
+        <classes>
+            <class name="Scripts.AdminFlow">
+                <methods>
+                    <!--THIS WILL MAKE TRANSACTION WITH PREDEFINED MERCHANTS,
+                    REFUND THOSE TRANSACTIONS-->
+                    <!--<include name="transactionSimulationPredefinedMerchants"/>-->
+                    <include name="merchantDashboard"></include>
+                    <include name="merchantTransactionMISSearch"></include>
+                    <include name="merchantTransactionMISDownloads"></include>
+                    <include name="merchantsuccessR"></include>
+                    <include name="mediaBasedPaymentAll"></include>
+                    <include name="merchantInstaPayment"></include>
+                    <include name="settingsManageusr"></include>
+                    <include name="settingManagePmode"></include>
+                    <include name="subscriptManagementPlan"></include>
+                    <include name="chargeBack"></include>
+                    <!--<include name="refundSimulation"/>
+                    <include name="refundMIS"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

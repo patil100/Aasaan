@@ -1,0 +1,15 @@
+Paymode Name,Paymode ID,PG_ID,Scheme,Bank Name,Pricing,Currency,Payment Cycle,Status
+CASH,CA,87,NA,Jaldi Cash,1.20%,INR,T + 1,Active
+Wallet,WA,701,NA,PhonePe Wallet,4.00%,INR,T + 1,Active
+UPI,UP,700,NA,YES QR,4.00%,INR,T + 1,Active
+Debit Card,DC,626,VISA,AXIS CB PG,4.00%,INR,T + 1,Active
+Net Banking,NB,63,NA,Test Bank,5.00%,INR,T + 1,Active
+Credit Card,CC,626,MASTERCARD,AXIS CB PG,4.00%,INR,T + 1,Active
+Debit Card with PIN,DP,98,NA,Bill Desk Debit Card,1.00%,INR,T + 1,Active
+NeftRtgs,NE,615,NA,NEFTRTGS,2.00%,INR,T + 1,Active
+Wallet,WA,138,NA,Airtel Money,0.40%,INR,T + 1,Active
+UPI,UP,697,NA,YES UPI,2.00%,INR,T + 1,Active
+Amazon Pay,AP,100,NA,Amazon Pay,4.00%,INR,T + 1,Active
+Debit Card,DC,626,MASTERCARD,AXIS CB PG,4.00%,INR,T + 1,Active
+Credit Card,CC,626,VISA,AXIS CB PG,4.00%,INR,T + 1,Active
+Credit Card,CC,626,VISA,AXIS CB PG,4.00%,INR,T + 1,Active

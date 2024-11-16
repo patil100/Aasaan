@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Safexpay Testing">
+        <classes>
+            <class name="Scripts.Shopper_flow">
+                <methods>
+                    <!--THIS WILL CREATE MERCHANTS, EDIT THEM, AUTHORIZE THEM, CREATE USER,
+                    CREATE EPP, UPLOAD MASTER BIN, MAKE TRANSACTION, CHECK EPP TRANSACTIONS-->
+                      <!--<include name="merchant"/>-->
+                      <include name="shoppage"/>
+                   <!--include name="merchant"/>-->
+                    <!-- <include name="createUser"/>-->
+                   <!--  <include name="MerchantRoutingRule">
+                   <include name="EPPflow"/>-->
+                    <!--<include name="newAdminTransactionManagement"/>
+                     <include name="TransactionManagemnetHold"/>-->
+                    <!--<include name="transactionSimulationNewMerchants"/>-->
+                    <!--<include name="transactionSimulationPredefinedMerchants"/>-->
+                    <!--<include name="aggregatorCardPaytransaction"/>-->
+                    <!--<include name="agCoreNetBanktransaction"/>
+                    <include name="agHostedPayNetBAnkiransaction"/>
+                    <include name="jSNetbanktransacion"/>
+                    <include name="merChantNetbnkTransaction"/>
+                    <include name="agHostedPayCardtransaction"/>
+                    <include name="merChaantCaarrdtransaction"/>-->
+                    <!--<include name="jSCardPaymenttransaction"/>
+                    <include name="jsUPIPaymodetransaction"/>
+                    <include name="jSOtherPaymodetransaction"/>-->
+                    <!--<include name="transactionMIS"/>
+                    <include name="settleMent"/>
+                    <include name="ParamUpdates"/>-->
+                    <!--<include name="Risk"/>
+                  <include name="integrationnDetails"/>
+                  <include name="merchantPricing"/>>-->
+              </methods>
+          </class>
+      </classes>
+  </test>
+</suite>

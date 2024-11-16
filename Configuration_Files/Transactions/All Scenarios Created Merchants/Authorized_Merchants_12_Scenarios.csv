@@ -1,0 +1,13 @@
+Merchant Name,Integration Type,3DS,Non-3DS,CyberSource,MPGS,Tabby,ID,Key,Authorized
+Merchant08125446,Aggregator Hosted,no,yes,yes,no,yes,202103080018,2BmMqyVHh1Iemg14saVcQW4dAcvbIenxXW1u8x0taxE=,Yes
+Merchant08125634,Aggregator Hosted,no,yes,no,yes,yes,202103080019,SCxWx9VzaD1Vobc919ZcgLVOLHMcepa5GnknBXvqyHw=,Yes
+Merchant08125821,Aggregator Hosted,yes,no,yes,no,yes,202103080020,8HxKF8Bh1NGOKNZ80j3PDzASAvHIK62lYmBhhykLXXI=,Yes
+Merchant08130007,Aggregator Hosted,yes,no,no,yes,yes,202103080021,Oary/HbJNwEH5kjI7QEelckXWGYqy78E1jtku/UzsU4=,Yes
+Merchant08130153,Aggregator Hosted,yes,yes,yes,no,yes,202103080022,dfxWKfGPrzD3DLBK5itS4cfyxQEGnlG5mhZzgBynXsU=,Yes
+Merchant08130340,Aggregator Hosted,yes,yes,no,yes,yes,202103080023,QhncE7wLztffFdIn5Do56tWKMKoa5Wl3ai3DiGE7wmU=,Yes
+Merchant08130527,JS Checkout,no,yes,yes,no,yes,202103080024,gIyYa+JBuBiSD5atnKoWuS9rqO8YdIAx8gl4ok4xW48=,Yes
+Merchant08130714,JS Checkout,no,yes,no,yes,yes,202103080025,CTcid4R3Lc3JuF83tNL+dL58K4tZdW0FVPw9NEaHXo4=,Yes
+Merchant08130902,JS Checkout,yes,no,yes,no,yes,202103080026,cJSw1XQ81SWDxBIgk5iprPwOKRRiRPmrzKyEz0fGpXc=,Yes
+Merchant08131049,JS Checkout,yes,no,no,yes,yes,202103080027,H88HE4rpG+oY3J9D8p6EH6MgWd191p8rjPZ/Pi6zDGY=,Yes
+Merchant08131235,JS Checkout,yes,yes,yes,no,yes,202103080028,bSV7N0CjJXceUYPzNTRqrrEktopRM0cJZVQWSUuuHAE=,Yes
+Merchant08131422,JS Checkout,yes,yes,no,yes,yes,202103080029,o6FrNAnvUTmQtIMvqF64r1/KMlorZsuASobHB54HZHs=,Yes

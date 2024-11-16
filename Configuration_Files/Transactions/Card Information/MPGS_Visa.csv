@@ -1,0 +1,3 @@
+Card Number,Expiry Month,Expiry Year,CVV,3DS,Non-3DS,EPP,PIN
+Configuration_Files\Transactions\Card Information\Tabby_Images\BBPS DOCS.pdf,5,2021,100,yes,no,yes,104
+Configuration_Files\Transactions\Card Information\Tabby_Images\BBPS PAN.png,5,2021,100,no,yes,no,103

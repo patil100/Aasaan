@@ -1,0 +1,6 @@
+paymode_name,transaction_date,success_transaction_count,total__transaction_count,success_ratio,response_ratio
+Net Banking,2022-01-27,2.0,2.0,100.0,100.0
+Net Banking,2022-01-26,7.0,10.0,70.0,100.0
+UPI,2022-01-25,0.0,1.0,0.0,100.0
+Net Banking,2022-01-25,15.0,15.0,100.0,100.0
+Net Banking,2022-01-24,6.0,6.0,100.0,100.0
